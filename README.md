@@ -8,7 +8,7 @@ I am a full-stack engineer with a passion for using code to create cool projects
 
 * 🌍  I'm based in Rabat
 * ✉️  You can contact me at [hmellahi@protonmail.com](mailto:hmellahi@protonmail.com)
-* 🤝  I'm open to collaborating on intresing projects
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
