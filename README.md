@@ -1,10 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hamza Mellahi
+Hi !
 =====================================================================================================================================
 
-Javascript Full Stack Developer
+Front End Enginner
 -------------------------------
-
-I am a full-stack engineer with a passion for using code to create cool projects and staying current with the latest technologies.
 
 * 🌍  I'm based in Rabat
 * ✉️  You can contact me at [hmellahi@protonmail.com](mailto:hmellahi@protonmail.com)
